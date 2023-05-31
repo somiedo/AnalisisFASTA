@@ -1,4 +1,4 @@
-# Analisis FASTA
+# Análisis FASTA
 Análisis de archivos FASTA
 
 En este código desarrollamos dos formas de realizar el análisis de un archivo FASTA:
@@ -9,7 +9,6 @@ En este código desarrollamos dos formas de realizar el análisis de un archivo 
 
 Tenemos que dar el path del fichero a analizar en la variable *fastaFile*. 
 
-# Path del fichero
 fastaFile = 'data/multipleSeqs.fa'
 
 
